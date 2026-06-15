@@ -1,3 +1,3 @@
 # meu-primeiro-repo
 Teste. Primeiro repositório
-# inicio do aprendizado do git/gitHub
+# início do aprendizado do git/gitHub
